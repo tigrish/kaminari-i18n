@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "kaminari-i18n"
   gem.homepage = "http://github.com/tigrish/kaminari-i18n"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Translations for the kaminari gem}
+  gem.description = %Q{Translations for the kaminari gem}
   gem.email = "chris@tigrish.com"
   gem.authors = ["Christopher Dell"]
   # dependencies defined in Gemfile

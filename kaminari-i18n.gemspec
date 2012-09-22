@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = [%q{Christopher Dell}]
   s.date = %q{2012-09-22}
-  s.description = %q{TODO: longer description of your gem}
+  s.description = %q{Translations for the kaminari gem}
   s.email = %q{chris@tigrish.com}
   s.extra_rdoc_files = [
     "README.md"
@@ -21,6 +21,7 @@ Gem::Specification.new do |s|
     "README.md",
     "Rakefile",
     "VERSION",
+    "kaminari-i18n.gemspec",
     "lib/kaminari-i18n.rb",
     "spec/kaminari-i18n_spec.rb",
     "spec/spec_helper.rb"
@@ -29,7 +30,7 @@ Gem::Specification.new do |s|
   s.licenses = [%q{MIT}]
   s.require_paths = [%q{lib}]
   s.rubygems_version = %q{1.8.6}
-  s.summary = %q{TODO: one-line summary of your gem}
+  s.summary = %q{Translations for the kaminari gem}
 
   if s.respond_to? :specification_version then
     s.specification_version = 3
