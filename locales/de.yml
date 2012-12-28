@@ -5,8 +5,9 @@ de:
         display_entries: Zeige %{entry_name} <b>%{first}&nbsp;-&nbsp;%{last}</b> von insgesamt <b>%{total}</b>
       one_page:
         display_entries:
-          content_item:
-            description: ! '{"zero"=>"Kein %{entry_name} gefunden", "one"=>"Zeige <b>1</b> %{entry_name}", "other"=>"Zeige <b>alle %{count}</b> %{entry_name}"}'
+          one: Zeige <b>%{count}</b> %{entry_name}
+          other: Zeige <b>alle %{count}</b> %{entry_name}
+          zero: Kein %{entry_name} gefunden
   views:
     pagination:
       first: « Start
