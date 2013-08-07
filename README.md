@@ -1,6 +1,6 @@
 # kaminari-i18n
 
-A ruby translation project managed on [Locale](http://www.localeapp.com/) that's open to all!
+A ruby translation project for [kaminari](https://github.com/amatsuda/kaminari) managed on [Locale](http://www.localeapp.com/) that's open to all!
 
 ## Contributing to kaminari-i18n
 
