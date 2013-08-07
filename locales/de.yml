@@ -13,5 +13,5 @@ de:
       first: « Start
       last: Ende »
       next: Weiter »
-      previous: ! '&lsaquo; Zurück'
-      truncate: ! '&hellip;'
+      previous: '&lsaquo; Zurück'
+      truncate: '&hellip;'

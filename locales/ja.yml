@@ -7,8 +7,8 @@ ja:
         display_entries: <b>%{count}</b>レコード表示中です %{entry_name}
   views:
     pagination:
-      first: ! '&laquo; 最初'
+      first: '&laquo; 最初'
       last: 最後 &raquo;
       next: 次 &rsaquo;
-      previous: ! '&lsaquo; 前'
-      truncate: ! '&hellip;'
+      previous: '&lsaquo; 前'
+      truncate: '&hellip;'
