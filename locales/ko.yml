@@ -7,7 +7,7 @@ ko:
         display_entries: <b>%{count}</b>레코드 표시 중입니다 %{entry_name}
   views:
     pagination:
-      first: '&laquo; 처음'
+      first: '&laquo; 첫'
       last: '마지막 &raquo;'
       next: '다음 &rsaquo;'
       previous: '&lsaquo; 이전'
