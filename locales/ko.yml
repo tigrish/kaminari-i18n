@@ -1,0 +1,14 @@
+ko:
+  helpers:
+    page_entries_info:
+      more_pages:
+        display_entries: <b>%{total}</b>중의 %{entry_name}를(을) 표시하고 있습니다 <b>%{first} - %{last}</b>
+      one_page:
+        display_entries: <b>%{count}</b> 레코드 표시 중입니다 %{entry_name}
+  views:
+    pagination:
+      first: '&laquo; 처음'
+      last: '마지막 &raquo;'
+      next: '다음 &rsaquo;'
+      previous: '&lsaquo; 이전'
+      truncate: '&hellip;'
