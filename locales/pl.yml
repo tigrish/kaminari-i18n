@@ -10,8 +10,8 @@ pl:
           zero: Nie znaleziono %{entry_name}
   views:
     pagination:
-      first: &laquo; Pierwsza
+      first: '&laquo; Pierwsza'
       last: Ostatnia &raquo;
       next: Dalej &rsaquo;
-      previous: &lsaquo; Wstecz
-      truncate: &hellip;
+      previous: '&lsaquo; Wstecz'
+      truncate: '&hellip;'
