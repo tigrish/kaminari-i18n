@@ -7,8 +7,8 @@ az:
         display_entries: Göstərilir <b>bütün %{count}</b> %{entry_name}
   views:
     pagination:
-      first: '&laquo; İlk'
+      first: "&laquo; İlk"
       last: Axırıncı &raquo;
       next: Növbəti &rsaquo;
-      previous: '&lsaquo; Əvvəlki'
-      truncate: '&hellip;'
+      previous: "&lsaquo; Əvvəlki"
+      truncate: "&hellip;"

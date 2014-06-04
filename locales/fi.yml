@@ -9,8 +9,8 @@ fi:
           other: Näytetään <b>%{count}</b> %{entry_name}
   views:
     pagination:
-      first: '&laquo; Ensimmäinen'
+      first: "&laquo; Ensimmäinen"
       last: Viimeinen &raquo;
       next: Seuraava &rsaquo;
-      previous: '&lsaquo; Edellinen'
-      truncate: '&hellip;'
+      previous: "&lsaquo; Edellinen"
+      truncate: "&hellip;"

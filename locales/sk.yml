@@ -10,8 +10,8 @@ sk:
           other: Zobrazujem <b>%{count}</b> %{entry_name}
   views:
     pagination:
-      first: '&laquo; Prvá'
+      first: "&laquo; Prvá"
       last: Posledná &raquo;
-      next: Ďalej &rsaquo;
-      previous: '&lsaquo; Späť'
-      truncate: '&hellip;'
+      next: "Ďalej &rsaquo;"
+      previous: "&lsaquo; Späť"
+      truncate: "&hellip;"

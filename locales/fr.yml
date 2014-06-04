@@ -2,15 +2,15 @@ fr:
   helpers:
     page_entries_info:
       more_pages:
-        display_entries: '%{entry_name}  <b>%{first} - %{last}</b> sur <b>%{total}</b> au total'
+        display_entries: "%{entry_name}  <b>%{first} - %{last}</b> sur <b>%{total}</b> au total"
       one_page:
         display_entries:
-          one: <b>%{count}</b> %{entry_name}
-          other: <b>tous les %{count}</b> %{entry_name}
+          one: "<b>%{count}</b> %{entry_name}"
+          other: "<b>tous les %{count}</b> %{entry_name}"
   views:
     pagination:
-      first: '&laquo; Premier'
+      first: "&laquo; Premier"
       last: Dernier &raquo;
       next: Suivant &rsaquo;
-      previous: '&lsaquo; Précédent'
-      truncate: '&hellip;'
+      previous: "&lsaquo; Précédent"
+      truncate: "&hellip;"
