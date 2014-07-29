@@ -5,6 +5,7 @@ pl:
         display_entries: Wyświetla %{entry_name} <b>%{first}&nbsp;-&nbsp;%{last}</b> z <b>%{total}</b> łącznie
       one_page:
         display_entries:
+          few: Wyświetla <b>wszystkie %{count}</b> %{entry_name}
           one: Wyświetla <b>%{count}</b> %{entry_name}
           other: Wyświetla <b>wszystkie %{count}</b> %{entry_name}
           zero: Nie znaleziono %{entry_name}
