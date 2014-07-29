@@ -11,4 +11,6 @@ group :development do
   gem "bundler"
   gem "jeweler", "~> 1.8.4"
   gem "localeapp"
+  gem "rails"
+  gem "i18n-spec"
 end
