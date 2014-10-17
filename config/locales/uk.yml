@@ -1,0 +1,17 @@
+uk:
+  helpers:
+    page_entries_info:
+      more_pages:
+        display_entries: Відображено %{entry_name} <b>%{first}&nbsp;-&nbsp;%{last}</b> із <b>%{total}</b>
+      one_page:
+        display_entries:
+          one: Відображено <b>%{count}</b> %{entry_name}
+          other: Відображені <b>всі %{count}</b> %{entry_name}
+          zero: Жодного %{entry_name}
+  views:
+    pagination:
+      first: "&laquo; Перша"
+      last: "Остання &raquo;"
+      next: "Наступна &rsaquo;"
+      previous: "&lsaquo; Попередня"
+      truncate: "&hellip;"
