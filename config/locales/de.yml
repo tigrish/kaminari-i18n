@@ -10,8 +10,8 @@ de:
           zero: Kein %{entry_name} gefunden
   views:
     pagination:
-      first: "&laquo; Start"
-      last: "Ende &raquo;"
-      next: "Weiter &rsaquo;"
+      first: "« Start"
+      last: Ende »
+      next: Weiter »
       previous: "&lsaquo; Zurück"
       truncate: "&hellip;"
