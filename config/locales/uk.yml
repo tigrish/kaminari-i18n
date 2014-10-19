@@ -8,8 +8,8 @@ uk:
           one: "Відображено <b>%{count}</b> %{entry_name}"
           other: "Відображені <b>всі %{count}</b> %{entry_name}"
           zero: "Жодного %{entry_name}"
-          few:
-          many:
+          few: "Відображені <b>%{count}</b> %{entry_name}"
+          many: "Відображені <b>%{count}</b> %{entry_name}"
 
   views:
     pagination:
