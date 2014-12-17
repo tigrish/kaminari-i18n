@@ -10,7 +10,7 @@ it:
   views:
     pagination:
       first: "&laquo; Inizio"
-      last: Fine &raquo;
-      next: Succ. &rsaquo;
+      last: "Fine &raquo;"
+      next: "Succ. &rsaquo;"
       previous: "&lsaquo; Prec."
       truncate: "&hellip;"
