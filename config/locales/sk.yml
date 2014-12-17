@@ -2,16 +2,16 @@ sk:
   helpers:
     page_entries_info:
       more_pages:
-        display_entries: Zobrazujem %{entry_name} <b>%{first}&nbsp;-&nbsp;%{last}</b> z celkovo <b>%{total}</b>
+        display_entries: "Zobrazujem %{entry_name} <b>%{first}&nbsp;-&nbsp;%{last}</b> z celkovo <b>%{total}</b>"
       one_page:
         display_entries:
-          few: Zobrazujem <b>%{count}</b> %{entry_name}
-          one: Zobrazujem <b>%{count}</b> %{entry_name}
-          other: Zobrazujem <b>%{count}</b> %{entry_name}
+          few: "Zobrazujem <b>%{count}</b> %{entry_name}"
+          one: "Zobrazujem <b>%{count}</b> %{entry_name}"
+          other: "Zobrazujem <b>%{count}</b> %{entry_name}"
   views:
     pagination:
       first: "&laquo; Prvá"
-      last: Posledná &raquo;
+      last: "Posledná &raquo;"
       next: "Ďalej &rsaquo;"
       previous: "&lsaquo; Späť"
       truncate: "&hellip;"
