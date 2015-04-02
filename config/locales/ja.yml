@@ -4,7 +4,10 @@ ja:
       more_pages:
         display_entries: "<b>%{total}</b>中の%{entry_name}を表示しています <b>%{first} - %{last}</b>"
       one_page:
-        display_entries: "<b>%{count}</b>レコード表示中です %{entry_name}"
+        display_entries:
+          one: "<b>%{count}</b>レコード表示中です %{entry_name}"
+          other: "<b>%{count}</b>レコード表示中です %{entry_name}"
+          zero: "レコードが見つかりませんでした %{entry_name}"
   views:
     pagination:
       first: "&laquo; 最初"
