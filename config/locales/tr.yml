@@ -1,0 +1,14 @@
+tr:
+  helpers:
+    page_entries_info:
+      more_pages:
+        display_entries: 
+      one_page:
+        display_entries: "<b>all&nbsp;%{count}</b> %{entry_name} gösteriliyor"
+  views:
+    pagination:
+      first: 
+      last: 
+      next: Sonraki &rsaquo;
+      previous: "&lsaquo; Önceki"
+      truncate: "&hellip;"

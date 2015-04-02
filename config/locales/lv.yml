@@ -1,0 +1,14 @@
+lv:
+  helpers:
+    page_entries_info:
+      more_pages:
+        display_entries: Parāda  %{entry_name} <b>%{first}&nbsp;-&nbsp;%{last}</b> no <b>%{total}</b> kopumā
+      one_page:
+        display_entries: 
+  views:
+    pagination:
+      first: 
+      last: 
+      next: Nākošais &rsaquo;
+      previous: "&lsaquo; Iepriekšējais"
+      truncate: "&hellip;"
