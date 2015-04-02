@@ -1,0 +1,17 @@
+es:
+  helpers:
+    page_entries_info:
+      more_pages:
+        display_entries: Mostrando %{entry_name} <b>%{first}&nbsp;-&nbsp;%{last}</b> de <b>%{total}</b> en total
+      one_page:
+        display_entries:
+          one: Mostrando <b>%{count}</b> %{entry_name}
+          other: Mostrando <b>todo&#58; %{count}</b> %{entry_name}
+          zero: No se ha encontrado ningún/a %{entry_name}
+  views:
+    pagination:
+      first: '&laquo; Primera'
+      last: Última &raquo;
+      next: Sig &rsaquo;
+      previous: '&lsaquo; Ant'
+      truncate: '&hellip;'
