@@ -1,0 +1,14 @@
+'no':
+  helpers:
+    page_entries_info:
+      more_pages:
+        display_entries: 
+      one_page:
+        display_entries: 
+  views:
+    pagination:
+      first: 
+      last: 
+      next: 
+      previous: 
+      truncate: 

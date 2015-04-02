@@ -1,0 +1,14 @@
+hu:
+  helpers:
+    page_entries_info:
+      more_pages:
+        display_entries: "%{entry_name} <b>%{first}&nbsp;-&nbsp;%{last}</b> megjelenítve (összesen <b>%{total}</b>)"
+      one_page:
+        display_entries: "<b>Mind a %{count}</b> %{entry_name} megjelenítve"
+  views:
+    pagination:
+      first: 
+      last: 
+      next: Következő &rsaquo;
+      previous: "&lsaquo; Előző"
+      truncate: "&hellip;"

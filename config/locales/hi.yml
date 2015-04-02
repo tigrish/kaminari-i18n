@@ -1,0 +1,16 @@
+hi:
+  helpers:
+    page_entries_info:
+      more_pages:
+        display_entries: "कुल <b>%{total} में से %{entry_name} <b>%{first}&nbsp;-&nbsp;%{last}</b> प्रदर्शित"
+      one_page:
+        display_entries:
+          one: "दर्शित <b>%{count}</b> %{entry_name}"
+          other: "प्रदर्शित <b>%{count}</b> %{entry_name}"
+  views:
+    pagination:
+      first: 
+      last: 
+      next: "अगला &rsaquo;"
+      previous: "&lsaquo; पिछला"
+      truncate: "&hellip;"

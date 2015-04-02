@@ -1,0 +1,16 @@
+ca:
+  helpers:
+    page_entries_info:
+      more_pages:
+        display_entries: Mostrant %{entry_name} <b>%{first}&nbsp;-&nbsp;%{last}</b> de<b>%{total}</b> en total
+      one_page:
+        display_entries:
+          one: Mostrant <b>%{count}</b> %{entry_name}
+          other: Mostrant <b>un total de %{count}</b> %{entry_name}
+  views:
+    pagination:
+      first: "&laquo; Primera"
+      last: "Última &raquo;"
+      next: Següent  &rsaquo;
+      previous: "&lsaquo; Anterior"
+      truncate: "&hellip;"
