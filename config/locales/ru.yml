@@ -6,7 +6,7 @@ ru:
       one_page:
         display_entries:
           few: "Показаны <b>%{count}</b> %{entry_name}"
-          many: '"Показаны <b>%{count}</b> %{entry_name}"'
+          many: "Показаны <b>%{count}</b> %{entry_name}"
           one: "Показано <b>%{count}</b> %{entry_name}"
           other: Показаны <b>все %{count}</b> %{entry_name}"
   views:
