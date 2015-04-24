@@ -1,17 +1,17 @@
 zh-TW:
+  helpers:
+    page_entries_info:
+      more_pages:
+        display_entries: "顯示 <b>%{first}&nbsp;-&nbsp;%{last}</b> 筆 %{entry_name}，共 <b>%{total}</b> 筆"
+      one_page:
+        display_entries:
+          one: "只有 <b>1</b> 筆 %{entry_name}"
+          other: "顯示 <b>所有 %{count}</b> 筆 %{entry_name}"
+          zero: "找不到 %{entry_name}"
   views:
     pagination:
       first: "&laquo; 首頁"
       last: "末頁 &raquo;"
-      previous: "&lsaquo; 上一頁"
       next: "下一頁 &rsaquo;"
+      previous: "&lsaquo; 上一頁"
       truncate: "&hellip;"
-  helpers:
-    page_entries_info:
-      one_page:
-        display_entries:
-          zero: "找不到 %{entry_name}"
-          one: "只有 <b>1</b> 筆 %{entry_name}"
-          other: "顯示 <b>所有 %{count}</b> 筆 %{entry_name}"
-      more_pages:
-        display_entries: "顯示 <b>%{first}&nbsp;-&nbsp;%{last}</b> 筆 %{entry_name}，共 <b>%{total}</b> 筆"
