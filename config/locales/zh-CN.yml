@@ -2,7 +2,7 @@ zh-CN:
   helpers:
     page_entries_info:
       more_pages:
-        display_entries: "显示 %{entry_name} <b>%{first} - %{last}</b>  共<b>%{total}</b> 页"
+        display_entries: "显示 %{entry_name} <b>%{first} - %{last}</b>  共<b>%{total}</b> "
       one_page:
         display_entries: "显示 <b>所有 %{count}</b> %{entry_name}"
   views:
