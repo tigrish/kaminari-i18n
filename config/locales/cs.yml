@@ -1,0 +1,18 @@
+cs:
+  helpers:
+    page_entries_info:
+      more_pages:
+        display_entries: "Zobrazuji %{entry_name} <b>%{first}&nbsp;-&nbsp;%{last}</b> z <b>%{total} celkových</b>"
+      one_page:
+        display_entries:
+          zero: "Žádná položka nenalezena"
+          one: "Zobrazuji <b>%{count}</b> položku"
+          few: "Zobrazuji <b>%{count}</b> položky"
+          other: "Zobrazuji <b>%{count}</b> položky"
+  views:
+    pagination:
+      first: "&laquo; První"
+      last: "Poslední &raquo;"
+      next: "Další &rsaquo;"
+      previous: "&lsaquo; Předchozí"
+      truncate: "&hellip;"
