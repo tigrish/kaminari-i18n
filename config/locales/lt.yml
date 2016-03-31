@@ -1,0 +1,18 @@
+lt:
+  helpers:
+    page_entries_info:
+      more_pages:
+        display_entries: Rodomi %{entry_name} <b>%{first}&nbsp;-&nbsp;%{last}</b> iš <b>%{total}</b>
+      one_page:
+        display_entries:
+          one: Rodomas <b>%{count}</b> %{entry_name}
+          few: Rodomi <b>visi %{count}</b> %{entry_name}
+          other: Rodomi <b>visi %{count}</b> %{entry_name}
+          zero: "%{entry_name} nerastas"
+  views:
+    pagination:
+      first: "&laquo; First"
+      last: Last &raquo;
+      next: Next &rsaquo;
+      previous: "&lsaquo; Prev"
+      truncate: "&hellip;"
