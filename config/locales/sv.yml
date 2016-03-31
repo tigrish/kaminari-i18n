@@ -6,7 +6,7 @@ sv:
       one_page:
         display_entries:
           one: Visar <b>%{count}<b> %{entry_name}
-          other: Visar <b>alla %{count}</b> %{entry_name}
+          other: Visar <b>alla %{count}</b> %{entry_name}
   views:
     pagination:
       first: "&laquo; Första"

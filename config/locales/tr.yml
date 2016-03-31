@@ -2,13 +2,13 @@ tr:
   helpers:
     page_entries_info:
       more_pages:
-        display_entries: 
+        display_entries: Toplam <b>%{total}</b> %{entry_name}; <b>%{first}&nbsp;-&nbsp;%{last}</b> arası gösteriliyor.
       one_page:
-        display_entries: "<b>all&nbsp;%{count}</b> %{entry_name} gösteriliyor"
+        display_entries: "<b>%{count}</b> %{entry_name} tamamı gösteriliyor"
   views:
     pagination:
-      first: 
-      last: 
+      first: "&laquo; İlk"
+      last: Son &raquo;
       next: Sonraki &rsaquo;
       previous: "&lsaquo; Önceki"
       truncate: "&hellip;"
