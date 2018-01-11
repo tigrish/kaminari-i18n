@@ -7,7 +7,6 @@ da:
         display_entries:
           one: Viser <b>%{count}</b> %{entry_name}
           other: Viser <b>alle %{count}</b> %{entry_name}
-          zero: Ingen %{entry_name} fundet
   views:
     pagination:
       first: "&laquo; Første"

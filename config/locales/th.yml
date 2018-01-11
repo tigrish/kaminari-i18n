@@ -1,0 +1,14 @@
+th:
+  helpers:
+    page_entries_info:
+      more_pages:
+        display_entries: "กำลังแสดงผล %{entry_name} <b>%{first}&nbps;-&nbps;%{last}</b> จากทั้งหมด <b>%{total}</b> หน้า"
+      one_page:
+        display_entries: "กำลังแสดงผล <b>ทั้งหมด %{count}</b> %{entry_name}"
+  views:
+    pagination:
+      first: "&laquo; หน้าแรก"
+      last: "หน้าสุดท้าย &raquo;"
+      next: "ถัดไป &rsaquo;"
+      previous: "&lsaquo; ก่อนหน้า"
+      truncate: "&hellip;"

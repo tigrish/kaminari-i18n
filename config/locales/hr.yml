@@ -1,0 +1,18 @@
+hr:
+  helpers:
+    page_entries_info:
+      more_pages:
+        display_entries: Prikazano %{entry_name} <b>%{first}&nbsp;-&nbsp;%{last}</b> od <b>%{total}</b> ukupnih
+      one_page:
+        display_entries:
+          few: Prikazano <b>par %{count}</b> %{entry_name}
+          many: Prikazano <b>svih %{count}</b> %{entry_name}
+          one: Prikazano <b>%{count}</b> %{entry_name}
+          other: Prikazano <b>svih %{count}</b> %{entry_name}
+  views:
+    pagination:
+      first: "&laquo Prvo"
+      last: Zadnje &raquo;
+      next: Slijedeće &rsaquo;
+      previous: "&lsaquo; Prethodno"
+      truncate: "&hellip;"
