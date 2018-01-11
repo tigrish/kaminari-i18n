@@ -9,8 +9,8 @@ hi:
           other: "प्रदर्शित <b>%{count}</b> %{entry_name}"
   views:
     pagination:
-      first: 
-      last: 
+      first: "&laquo; पहला"
+      last: "आखरी &raquo;"
       next: "अगला &rsaquo;"
       previous: "&lsaquo; पिछला"
       truncate: "&hellip;"
