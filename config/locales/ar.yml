@@ -2,16 +2,16 @@ ar:
   helpers:
     page_entries_info:
       more_pages:
-        display_entries: عرض%{entry_name} <b>%{first}&nbsp;-&nbsp;%{last}</b> of <b>%{total}</b> ككل
+        display_entries: عرض %{entry_name} <b>%{total}</b> من <b>%{last}&nbsp;-&nbsp;%{first}</b> ككل
       one_page:
         display_entries:
-          one: عرض<b>%{count}</b> %{entry_name}
-          other: عرض<b>الكل %{count}</b> %{entry_name}
+          one: عرض <b>%{count}</b> %{entry_name}
+          other: عرض <b>الكل %{count}</b> %{entry_name}
           zero: لا %{entry_name} يوجد
   views:
     pagination:
       first: "&laquo; الأول"
-      last: الأخير&raquo;
+      last: الأخير &raquo;
       next: التالي &rsaquo;
       previous: "&lsaquo; السابق"
       truncate: "&hellip;"
