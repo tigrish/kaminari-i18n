@@ -2,7 +2,7 @@ ar:
   helpers:
     page_entries_info:
       more_pages:
-        display_entries: عرض %{entry_name} <b>%{total}</b> من <b>%{last}&nbsp;-&nbsp;%{first}</b> ككل
+        display_entries: عرض %{entry_name} <b>%{total}</b> من <b>%{first}&nbsp;-&nbsp;%{last}</b> ككل
       one_page:
         display_entries:
           one: عرض <b>%{count}</b> %{entry_name}
