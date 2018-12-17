@@ -1,0 +1,17 @@
+sq:
+  helpers:
+    page_entries_info:
+      more_pages:
+        display_entries: Po shfaqen %{entry_name} <b>%{first}&nbsp;-&nbsp;%{last}</b> nga <b>%{total}</b> gjithsej
+      one_page:
+        display_entries:
+          one: Po shfaqet <b>%{count}</b> %{entry_name}
+          other: Po shfaqen <b>all %{count}</b> %{entry_name}
+          zero: S’u gjet %{entry_name}
+  views:
+    pagination:
+      first: "&laquo; E para"
+      last: E fundit &raquo;
+      next: Pasuesja &rsaquo;
+      previous: "&lsaquo; E mëparshmja"
+      truncate: "&hellip;"
