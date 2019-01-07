@@ -10,7 +10,8 @@ ar:
           few: عرض <b>الكل %{count}</b> %{entry_name}
           many: عرض <b>الكل %{count}</b> %{entry_name}
           other: عرض <b>الكل %{count}</b> %{entry_name}
-          zero: لا %{entry_name} يوجد  views:
+          zero: لا %{entry_name} يوجد  
+  views:
     pagination:
       first: "&laquo; الأول"
       last: الأخير &raquo;
