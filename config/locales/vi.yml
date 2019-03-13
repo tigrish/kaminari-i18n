@@ -1,0 +1,17 @@
+vi:
+  helpers:
+    page_entries_info:
+      more_pages:
+        display_entries: Hiển thị %{entry_name} <b>%{first}&nbsp;-&nbsp;%{last}</b> trong <b>%{total}</b>
+      one_page:
+        display_entries:
+          one: Hiển thị <b>%{count}</b> %{entry_name}
+          other: Hiển thị <b>toàn bộ %{count}</b> %{entry_name}
+          zero: Không %{entry_name} tìm thấy
+  views:
+    pagination:
+      first: "&laquo; Đầu"
+      last: Cuối &raquo;
+      next: Tiếp &rsaquo;
+      previous: "&lsaquo; Trước"
+      truncate: "&hellip;"
