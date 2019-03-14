@@ -1,0 +1,17 @@
+mk:
+  helpers:
+    page_entries_info:
+      more_pages:
+        display_entries: Прикажани %{entry_name} <b>%{first}&nbsp;-&nbsp;%{last}</b> од вкупно <b>%{total}</b>
+      one_page:
+        display_entries:
+          one: Прикажани <b>%{count}</b> %{entry_name}
+          other: Прикажани <b>сите %{count}</b> %{entry_name}
+          zero: Нема пронајдени записи за %{entry_name}
+  views:
+    pagination:
+      first: "&laquo; Прва"
+      last: Последна &raquo;
+      next: Следна &rsaquo;
+      previous: "&lsaquo; Претходна"
+      truncate: "&hellip;"
